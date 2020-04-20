@@ -7,8 +7,6 @@
 	<version>0.0.7-SNAPSHOT</version>
 	<name>my-app</name>
 	<url>http://maven.apache.org</url>
-	
-	<! -- Demo on github webhooks-->
 
 	<dependencies>
 		<dependency>
